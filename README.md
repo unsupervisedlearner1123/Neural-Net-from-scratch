@@ -1,1 +1,3 @@
 # Neural-Net-from-scratch
+
+This assignment is part of the homeworks assigned under course IDS 705: Principles of Machine Learning, taught by Kyle Bradbury at Duke University. This assignment is designed to aid in a detailed understanding of the math and practical implementation considerations of neural networks, one of the most widely used machine learning tools, so that it can be leveraged for learning about other neural networks of different model architectures. A simple neural network is coded from scratch with the NumPy package, in a style similar to the `sklearn`'s implementations of many machine learning algorithms.
